@@ -1,0 +1,26 @@
+.container{
+    margin:20px 40px;
+    font-size: 14px;
+    padding: 6px;
+    border:0.5px solid #D5D5D5;
+    width: 55%;
+}
+
+.container ul{
+    padding:0px 3px;
+    margin: 5px;
+    color:#333333
+
+}
+
+.container li{
+    font-size:12px;
+    list-style: none;
+    font-weight:bold;
+    margin: 2px
+}
+
+.container li:before{
+    content: "-   ";
+	text-shadow:2px;
+}

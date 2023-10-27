@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "page-font";
+    src: url("../../lvnm.ttf");
+}
+.header{
+    background-color: #3399CC;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-family: "page-font";
+    padding-left: 24px;
+    line-height: 119px;
+    font-weight:bold;
+}
